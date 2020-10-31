@@ -2,7 +2,7 @@
 name: New task
 about: A task to complete unrelated to bugs or features
 title: "[Task] "
-labels: task
+labels: 'priority: standard, task'
 assignees: ''
 
 ---

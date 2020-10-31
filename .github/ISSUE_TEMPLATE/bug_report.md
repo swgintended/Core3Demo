@@ -2,7 +2,7 @@
 name: Bug report
 about: Something that needs fixed, changed, or updated
 title: "[Bug] "
-labels: bug
+labels: 'bug, priority: standard'
 assignees: ''
 
 ---

@@ -2,7 +2,7 @@
 name: Feature request
 about: Suggest a new server feature
 title: "[Feature] "
-labels: feature
+labels: 'feature, priority: standard'
 assignees: ''
 
 ---
